@@ -4,6 +4,9 @@ const quien = document.getElementById('quien');
 const cuando = document.getElementById('cuando');
 const donde = document.getElementById('donde');
 const btnGenerar = document.getElementById('btn-generar');
+const envValue = document.getElementById('env-value');
+
+// Obtener variable de entorno desde JavaScript
 
 // Arrays con opciones aleatorias
 const acciones = [
